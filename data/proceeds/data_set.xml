@@ -1,0 +1,172 @@
+<DataSet>
+    <DataFile>
+        <FileType>dat</FileType>
+        <FirstCell></FirstCell>
+        <LastCell></LastCell>
+        <SheetNumber>1</SheetNumber>
+        <LagsNumber>0</LagsNumber>
+        <StepsAhead>0</StepsAhead>
+        <ColumnsName>0</ColumnsName>
+        <RowsLabel>204</RowsLabel>
+        <Separator>Comma</Separator>
+        <MissingValuesLabel>?</MissingValuesLabel>
+        <DataFileName>data/data.dat</DataFileName>
+    </DataFile>
+    <Variables>
+        <VariablesNumber>24</VariablesNumber>
+        <Item Index="1">
+            <Name>Centroid</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="2">
+            <Name>MFCC 0</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="3">
+            <Name>MFCC 1</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="4">
+            <Name>MFCC 3</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="5">
+            <Name>MFCC 4</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="6">
+            <Name>MFCC 6</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="7">
+            <Name>MFCC 7</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="8">
+            <Name>Peak Ratio Chroma F</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="9">
+            <Name>Peak Ratio Avg Chroma A</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="10">
+            <Name>Peak Ratio Minimum Chroma A</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="11">
+            <Name>MFCC 7 2</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="12">
+            <Name>MFCC 12</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="13">
+            <Name>Peak Ratio Chroma F</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="14">
+            <Name>Peak Ratio Minimum Chroma A 2</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="15">
+            <Name>MFCC 1 2</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="16">
+            <Name>MFCC 5</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="17">
+            <Name>Peak Ratio Chroma C Sharp</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="18">
+            <Name>Peak Ratio Chroma D</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="19">
+            <Name>Peak Ratio Min Chroma A 3</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="20">
+            <Name>Zero Crossings</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="21">
+            <Name>MFCC 10</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="22">
+            <Name>Center</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="23">
+            <Name>Halfedge</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="24">
+            <Name>Rimshot</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+    </Variables>
+    <Instances>
+        <InstancesNumber>991</InstancesNumber>
+        <ItemsUses>0 1 1 0 1 2 1 1 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 2 2 0 0 0 1 2 2 0 2 2 0 0 2 1 0 0 2 0 0 0 2 2 2 0 0 0 0 1 0 0 0 0 2 2 0 0 0 0 1 1 1 2 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 2 0 0 2 0 0 1 1 2 1 1 0 0 0 2 2 0 0 0 2 0 0 0 0 0 1 2 0 2 2 2 1 0 0 2 0 0 2 0 2 0 2 0 1 0 0 2 0 2 1 0 2 2 1 0 0 2 0 1 0 0 0 0 2 0 0 2 2 0 0 0 2 0 0 2 0 0 0 2 0 0 0 1 0 1 0 2 2 0 2 0 0 0 0 2 0 0 0 0 2 0 1 1 2 0 1 2 0 2 1 1 0 1 1 0 1 0 2 2 0 0 1 0 2 2 2 0 0 2 2 2 2 0 1 0 0 2 2 1 1 1 0 0 2 0 0 1 1 0 0 0 2 2 0 1 0 2 1 0 2 1 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2 0 0 0 0 0 2 0 0 0 2 0 1 0 0 1 2 0 1 2 2 0 1 1 1 1 1 2 0 0 2 0 0 0 1 1 1 2 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 2 0 0 0 0 1 0 0 1 2 0 1 2 0 1 0 0 0 1 0 1 0 0 0 1 0 2 0 0 0 0 1 0 0 2 0 1 0 2 0 1 0 1 0 0 2 1 0 0 0 0 0 2 0 1 2 0 2 0 1 0 0 0 2 1 0 1 1 1 0 0 1 0 0 0 0 1 2 0 0 0 1 2 0 0 2 0 0 0 2 1 2 0 0 1 2 1 0 2 2 0 0 0 0 0 0 0 0 1 0 2 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 2 0 2 0 0 0 0 0 0 2 0 0 0 0 1 1 0 0 0 0 1 2 0 1 2 1 1 0 0 2 0 0 0 0 0 1 0 1 2 1 0 0 0 0 2 0 0 0 1 1 1 2 0 0 0 0 2 0 0 2 2 0 1 0 0 0 0 1 2 0 0 0 0 0 0 0 2 2 0 0 0 1 2 0 2 1 2 0 0 0 0 0 0 2 1 1 2 2 0 1 1 0 2 0 0 1 0 1 2 0 1 1 0 0 0 0 0 2 2 0 2 2 1 1 0 2 1 0 0 0 0 0 1 0 2 2 1 0 1 2 0 1 0 0 0 0 0 0 2 0 0 0 1 0 0 0 1 2 0 2 0 1 0 0 0 2 2 0 0 0 0 1 1 0 1 0 0 2 0 0 1 2 1 2 0 0 0 1 0 1 0 0 0 1 0 0 2 0 2 0 0 0 0 2 0 0 0 2 2 0 0 1 0 0 0 1 1 1 0 0 0 1 0 1 1 1 2 0 1 0 1 0 1 1 2 0 0 0 2 1 0 0 0 0 2 0 0 1 1 0 0 2 0 2 0 0 0 0 2 0 0 0 0 2 0 2 2 0 0 1 0 1 0 2 0 0 0 1 2 2 2 0 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 2 2 2 2 1 0 0 0 0 0 1 0 0 0 2 1 0 1 0 0 0 0 0 2 0 2 0 0 0 0 0 0 0 2 2 1 0 2 0 0 2 0 0 0 0 0 0 2 1 0 0 1 2 0 2 0 0 0 0 0 0 1 0 2 0 0 1 0 0 2 0 0 2 0 0 2 0 0 0 0 1 0 0 0 2 0 1 2 0 0 2 0 0 0 0 0 1 0 1 1 2 0 1 1 0 1 0 1 2 0 0 0 0 0 0 0 1 0 0 2 0 0 0 0 0 2 2 0 1 1 0 0 1 0 0 0 0 0 0 0 2 0 2 0 0 0 0 2 0 0 2 1 0 2 0 0 0 1 1 0 0 0 2 1 1 0 0 0 1 0 0 2 1 0 0 0 0 1 1 0 2 2 0 1 2 1 1 2 0 2 0 0 0 2 0 0 0 0 0 2 2 1 1 0 2 0 0 0 0 0 0 0 2 1 0 2 1 1 0 1 0 0 1 0</ItemsUses>
+    </Instances>
+    <MissingValues>
+        <InstancesNumber>991</InstancesNumber>
+        <VariablesNumber>24</VariablesNumber>
+        <ScrubbingMethod>Unuse</ScrubbingMethod>
+        <MissingValuesNumber>0</MissingValuesNumber>
+    </MissingValues>
+</DataSet>
